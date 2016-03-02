@@ -1,0 +1,16 @@
+Sim dir: sim_data/noreset/dt0.0005/t200/d0/b10/p0/k1.000/u5
+ResetPos 0
+potMod 0
+recordMFP 0
+includesteric 0
+ranPot 0
+HPI 0
+d 0
+p 0
+b 10
+dt 0.0005
+runs 20000
+steps 400000
+time: 200
+k 1
+U_0 5
